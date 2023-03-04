@@ -1,2 +1,1 @@
-# HaritalarUygulamasi![HaritaUygulaması](https://user-images.githubusercontent.com/101280910/222900848-2bfe2dc0-bd49-48c6-b900-fb4a3b0f7d1e.gif)
-.
+![HaritaUygulaması](https://user-images.githubusercontent.com/101280910/222901472-b87847f0-20e9-4dfc-9b70-3df560227d52.gif)
