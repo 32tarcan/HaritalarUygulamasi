@@ -22,4 +22,14 @@ Open the app and allow it to access your location. Tap and hold on the map to dr
 
 
 
-![HaritaUygulaması](https://user-images.githubusercontent.com/101280910/222901472-b87847f0-20e9-4dfc-9b70-3df560227d52.gif)
+
+![ezgif com-crop](https://user-images.githubusercontent.com/101280910/225422551-f03bbd8c-c2f4-41ac-a4e2-15015067d60c.gif)
+
+
+
+
+
+
+
+
+
